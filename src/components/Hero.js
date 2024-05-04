@@ -40,7 +40,7 @@ const Hero = () => {
           <a href="#" className='social-icons'><AiOutlineInstagram size={40} /></a>
         </div>
         <div className="btn">
-          <a href="/assets/DHANUSH S.pdf" download="Dhanush S CV.pdf">Download CV</a>
+        <a href={`${process.env.PUBLIC_URL}/assets/DHANUSH S.pdf`} download="Dhanush S CV.pdf">Download CV</a>
         </div>
       </div>
        
