@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/dportfolio/static/css/main.79829933.css",
-    "main.js": "/dportfolio/static/js/main.8f11a2d6.js",
-    "static/media/_videoGamePlanet.png": "/dportfolio/static/media/6495da7241185414c12ddc02_videoGamePlanet.c7d3b74529dfafebbe2c.png",
-    "static/media/Full-stack-web-developer.png": "/dportfolio/static/media/Full-stack-web-developer.8e3e01330d1299c29d71.png",
-    "static/media/Full-Stack-Developer.png": "/dportfolio/static/media/Full-Stack-Developer.5c209bacb87af7aac1a6.png",
-    "static/media/Hire-Front-End-Developer-removebg-preview.png": "/dportfolio/static/media/Hire-Front-End-Developer-removebg-preview.6c57afb8d38157d80d11.png",
-    "static/media/1_SwFB1o_k1LGprN-XRUZQ8w.jpg": "/dportfolio/static/media/1_SwFB1o_k1LGprN-XRUZQ8w.6ccfeee04caa6f45f0a8.jpg",
-    "static/media/f2.png": "/dportfolio/static/media/f2.94cc4cf6d01f7d400c2a.png",
-    "static/media/tailwind.png": "/dportfolio/static/media/tailwind.5bad92959f0cc2f3a595.png",
-    "static/media/css.webp": "/dportfolio/static/media/css.2ec1075ce2d173513b17.webp",
-    "static/media/C_Logo.png": "/dportfolio/static/media/C_Logo.bbbbbabc8c191bfb99bf.png",
-    "static/media/node.png": "/dportfolio/static/media/node.9fea1c7da2bd42ab93bf.png",
-    "static/media/f1.webp": "/dportfolio/static/media/f1.76cb9dd09c1f4f986ab2.webp",
-    "static/media/C++.png": "/dportfolio/static/media/C++.d7a72328ffe7d955a33e.png",
-    "static/media/js.png": "/dportfolio/static/media/js.266bd9fb2663dcc057b4.png",
-    "static/media/react.svg": "/dportfolio/static/media/react.011e7c1df86b45faf46cd92fe47d6bbd.svg",
-    "index.html": "/dportfolio/index.html",
-    "main.79829933.css.map": "/dportfolio/static/css/main.79829933.css.map",
-    "main.8f11a2d6.js.map": "/dportfolio/static/js/main.8f11a2d6.js.map"
+    "main.css": "https://sightkiller.github.io/dportfolio/static/css/main.79829933.css",
+    "main.js": "https://sightkiller.github.io/dportfolio/static/js/main.6ec5e566.js",
+    "static/media/_videoGamePlanet.png": "https://sightkiller.github.io/dportfolio/static/media/6495da7241185414c12ddc02_videoGamePlanet.c7d3b74529dfafebbe2c.png",
+    "static/media/Full-stack-web-developer.png": "https://sightkiller.github.io/dportfolio/static/media/Full-stack-web-developer.8e3e01330d1299c29d71.png",
+    "static/media/Full-Stack-Developer.png": "https://sightkiller.github.io/dportfolio/static/media/Full-Stack-Developer.5c209bacb87af7aac1a6.png",
+    "static/media/Hire-Front-End-Developer-removebg-preview.png": "https://sightkiller.github.io/dportfolio/static/media/Hire-Front-End-Developer-removebg-preview.6c57afb8d38157d80d11.png",
+    "static/media/1_SwFB1o_k1LGprN-XRUZQ8w.jpg": "https://sightkiller.github.io/dportfolio/static/media/1_SwFB1o_k1LGprN-XRUZQ8w.6ccfeee04caa6f45f0a8.jpg",
+    "static/media/f2.png": "https://sightkiller.github.io/dportfolio/static/media/f2.94cc4cf6d01f7d400c2a.png",
+    "static/media/tailwind.png": "https://sightkiller.github.io/dportfolio/static/media/tailwind.5bad92959f0cc2f3a595.png",
+    "static/media/css.webp": "https://sightkiller.github.io/dportfolio/static/media/css.2ec1075ce2d173513b17.webp",
+    "static/media/C_Logo.png": "https://sightkiller.github.io/dportfolio/static/media/C_Logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/node.png": "https://sightkiller.github.io/dportfolio/static/media/node.9fea1c7da2bd42ab93bf.png",
+    "static/media/f1.webp": "https://sightkiller.github.io/dportfolio/static/media/f1.76cb9dd09c1f4f986ab2.webp",
+    "static/media/C++.png": "https://sightkiller.github.io/dportfolio/static/media/C++.d7a72328ffe7d955a33e.png",
+    "static/media/js.png": "https://sightkiller.github.io/dportfolio/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/react.svg": "https://sightkiller.github.io/dportfolio/static/media/react.011e7c1df86b45faf46cd92fe47d6bbd.svg",
+    "index.html": "https://sightkiller.github.io/dportfolio/index.html",
+    "main.79829933.css.map": "https://sightkiller.github.io/dportfolio/static/css/main.79829933.css.map",
+    "main.6ec5e566.js.map": "https://sightkiller.github.io/dportfolio/static/js/main.6ec5e566.js.map"
   },
   "entrypoints": [
     "static/css/main.79829933.css",
-    "static/js/main.8f11a2d6.js"
+    "static/js/main.6ec5e566.js"
   ]
 }
