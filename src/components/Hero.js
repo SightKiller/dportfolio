@@ -38,7 +38,7 @@ const Hero = () => {
           <a href="" className='social-icons'><AiOutlineInstagram size={40} /></a>
         </div>
         <div className="btn">
-          <a href="#">Download CV</a>
+          <a href="location.href='../assets/DHANUSH S.pdf">Download CV</a>
         </div>
       </div>
        
