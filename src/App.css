@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Header Component */
+header ul li {
+    @apply px-7;
+}
+
+/* Common */
+.main{
+    color: #20e326;
+}
+
+.bg-primary {
+    background: #1f1e1e;
+}
+
+.bg-secondary{
+    background: #363636;
+}
+
+.social-icons{
+    @apply pr-5 text-white hover:text-main ;
+}
+.btn{
+    @apply text-white border w-[120px] p-2 h-10 text-center rounded bg-main shadow-before-btn border-main;
+}
+.btn:hover{
+    @apply shadow-after-btn ;
+}
+
+/* Navigation */
+.mobile-nav {
+    @apply fixed top-10 left-0 bg-gray-600 w-full h-1/4;
+}
+.mobile-nav li {
+    @apply w-full text-center border-b-2 h-full;
+}
+
+/* Projects Component */
+.projects {
+    @apply flex flex-col px-5 py-5 bg-primary text-white;
+}
+.projects-title {
+    @apply text-3xl md:text-5xl font-bold text-center mb-10;
+}
+.projects-container {
+    @apply flex flex-wrap justify-center;
+}
+.project-card {
+    @apply p-4 max-w-sm w-full md:w-1/3;
+}
+.img-card{
+    @apply bg-white text-gray-800 rounded-lg shadow-lg overflow-hidden relative;
+}
+.project-image{
+    @apply w-full h-48 object-cover;
+}
+.desc-card{
+    @apply  absolute inset-0 bg-black bg-opacity-50 opacity-0 hover:opacity-100 transition-opacity duration-300 flex justify-center items-center;
+}
+.project-desc {
+    @apply p-4 text-center text-white;
+}
+.project-btn{
+    @apply  inline-block mt-4 bg-main text-white rounded px-4 py-2;
+}
+  
+  .text-sm {
+    overflow-y: auto; 
+    max-height: 4rem;
+  }
+/* Skills */
+
+.skills{
+    @apply flex flex-col bg-secondary;
+}
+.skills-container{
+    @apply flex flex-col md:flex-col justify-center;
+}
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 1s ease-out;
+  }
+
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
+@keyframes fadeOut {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .fade-Out {
+    animation: fadeOut 1s ease-out;
+  }
+
+
+  html {
+    scroll-behavior: smooth;
+  }
