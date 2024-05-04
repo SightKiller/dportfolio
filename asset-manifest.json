@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dportfolio/static/css/main.f3214005.css",
-    "main.js": "/dportfolio/static/js/main.858a5df4.js",
+    "main.css": "/dportfolio/static/css/main.79829933.css",
+    "main.js": "/dportfolio/static/js/main.61465f1b.js",
     "static/media/_videoGamePlanet.png": "/dportfolio/static/media/6495da7241185414c12ddc02_videoGamePlanet.c7d3b74529dfafebbe2c.png",
     "static/media/Full-stack-web-developer.png": "/dportfolio/static/media/Full-stack-web-developer.8e3e01330d1299c29d71.png",
     "static/media/Full-Stack-Developer.png": "/dportfolio/static/media/Full-Stack-Developer.5c209bacb87af7aac1a6.png",
@@ -17,11 +17,11 @@
     "static/media/js.png": "/dportfolio/static/media/js.266bd9fb2663dcc057b4.png",
     "static/media/react.svg": "/dportfolio/static/media/react.011e7c1df86b45faf46cd92fe47d6bbd.svg",
     "index.html": "/dportfolio/index.html",
-    "main.f3214005.css.map": "/dportfolio/static/css/main.f3214005.css.map",
-    "main.858a5df4.js.map": "/dportfolio/static/js/main.858a5df4.js.map"
+    "main.79829933.css.map": "/dportfolio/static/css/main.79829933.css.map",
+    "main.61465f1b.js.map": "/dportfolio/static/js/main.61465f1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3214005.css",
-    "static/js/main.858a5df4.js"
+    "static/css/main.79829933.css",
+    "static/js/main.61465f1b.js"
   ]
 }
