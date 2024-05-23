@@ -8,29 +8,24 @@ import Portfolio2 from '../assets/Full-Stack-Developer.png';
 const Projects = () => {
   const projects = [
     {
-      img: E_Commerce,
-      description: 'Create e-commerce section with product displays, individual pages, and a cart.',
-      link: '#'
-    },
-    {
       img: Portfolio,
-      description: 'Build a React portfolio using Tailwind CSS for styling and Email.js for contact functionality, showcasing personal projects and skills.',
+      description: 'https://sightkiller.github.io/dportfolio/',
       link: '#'
     },
     {
       img: React_Game,
       description: 'A React-based "Guess The Number" game where players attempt to identify a random number, with real-time feedback on each guess.',
-      link: '#'
+      link: 'https://sightkiller.github.io/React_Game/'
     },
     {
       img: GASC_Admission,
       description: 'This project enhanced college admissions efficiency by integrating key processes into a digital web application.',
-      link: '#'
+      link: 'https://www.linkedin.com/posts/dhanushs-infotech_nodejs-mongoose-mongodb-activity-7169363303083749376-WULh?utm_source=share&utm_medium=member_desktop'
     },
     {
       img: Portfolio2,
       description: 'I showcased my expertise in web development through the creation of a responsive portfolio for this assignment.',
-      link: '#'
+      link: 'https://sightkiller.github.io/Portfolio/'
     }
     
   ];
