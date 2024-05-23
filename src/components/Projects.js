@@ -9,8 +9,8 @@ const Projects = () => {
   const projects = [
     {
       img: Portfolio,
-      description: 'https://sightkiller.github.io/dportfolio/',
-      link: '#'
+      description:'Build a React portfolio using Tailwind CSS for styling and Email.js for contact functionality, showcasing personal projects and skills.',
+      link:  'https://sightkiller.github.io/dportfolio/'
     },
     {
       img: React_Game,
